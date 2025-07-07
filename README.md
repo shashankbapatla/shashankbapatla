@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/shashank-bapatla" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/shashank.bapatla/" target="_blank">
+  <a href="https://www.instagram.com/shashank_bapatla/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://github.com/shashankbapatla">
@@ -29,7 +29,6 @@ I'm a passionate **cybersecurity enthusiast** currently pursuing B.Tech in CSE w
 - **Security Tools:** Nmap, Burp Suite, OpenVAS, Wireshark, Metasploit, Bettercap, Aircrack-ng  
 - **Dev Tools:** Git, GitHub, VS Code, PyCharm, Jupyter, IntelliJ, Google Colab  
 ---
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbapatla&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 
 ### 🧠 Certifications
 
@@ -40,3 +39,4 @@ I'm a passionate **cybersecurity enthusiast** currently pursuing B.Tech in CSE w
 - ✅ **Cybersecurity Analyst Certificate** – IBM / Coursera  
 
 ---
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbapatla&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
