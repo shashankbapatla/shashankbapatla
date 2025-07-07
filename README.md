@@ -30,7 +30,7 @@ I'm a passionate **cybersecurity enthusiast** currently pursuing B.Tech in CSE w
 - **Dev Tools:** Git, GitHub, VS Code, PyCharm, Jupyter, IntelliJ, Google Colab  
 ---
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankbapatla&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
----
+
 ### 🧠 Certifications
 
 - ✅ **Certified Ethical Hacker (CEH)** – EC-Council  
