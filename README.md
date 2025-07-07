@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hi, I'm Shashank Bapatla</h1>
+<h1 align="center">👋 Hi, I'm Shashank</h1>
 <h3 align="center">Cybersecurity Enthusiast | Developer | B.Tech CSE (Cyber Security)</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shashank-bapatla" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:leelashashank2004@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white">
+  <a href="https://www.instagram.com/shashank.bapatla/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
   <a href="https://github.com/shashankbapatla">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white">
@@ -40,9 +40,3 @@ I'm a passionate **cybersecurity enthusiast** currently pursuing B.Tech in CSE w
 - ✅ **Cybersecurity Analyst Certificate** – IBM / Coursera  
 
 ---
-
-### 🌐 Let's Connect
-
-🔗 **LinkedIn:** [linkedin.com/in/shashank-bapatla](https://www.linkedin.com/in/shashank-bapatla)  
-💻 **GitHub:** [github.com/shashankbapatla](https://github.com/shashankbapatla)
-
